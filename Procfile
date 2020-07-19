@@ -1,0 +1,1 @@
+web: java -jar ./backend/target/backend-0.0.1-SNAPSHOT.jar --server.port=$PORT --spring.datasource.url=$DB_URL --spring.datasource.username=$USER --spring.datasource.password=$PASSWORD --spring.datasource.driver-class-name=$DRIVER
