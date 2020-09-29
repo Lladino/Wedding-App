@@ -1,4 +1,4 @@
-# Weeding-App
+# Wedding-App
 Wedding App with registration
 
 ## General Info
